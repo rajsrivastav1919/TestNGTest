@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test">
+    <test name="ProdEnv1001_Test">
+        <classes>
+            <class name="test.ListenerTest"/>
+        </classes>
+    </test>
+</suite>
